@@ -1,6 +1,6 @@
 # CheckPrimeNumberApp
 
-#congig for run 
+#Run App With Visual Studio
 
 #config startup1.png
 https://github.com/picthaisky/CheckPrimeNumberApp/blob/main/config%20startup1.png
