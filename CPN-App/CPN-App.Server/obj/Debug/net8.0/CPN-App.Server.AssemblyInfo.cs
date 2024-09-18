@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPN-App.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a150227fb80baf2303ccfabbc512e4d30731b80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e9ebdb7e20d766d22dbfcc5c4a06d10dfa937f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPN-App.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPN-App.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

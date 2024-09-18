@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.server\\controllers\\primecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|solutionrelative:cpn-app.server\\controllers\\primecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.client\\src\\services\\prime.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|solutionrelative:cpn-app.client\\src\\services\\prime.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|solutionrelative:cpn-app.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.server\\controllers\\primecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|solutionrelative:cpn-app.server\\controllers\\primecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PrimeController.cs",
               "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\CPN-App.Server\\Controllers\\PrimeController.cs",
               "RelativeDocumentMoniker": "CPN-App.Server\\Controllers\\PrimeController.cs",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\CPN-App.Server\\appsettings.json",
               "RelativeDocumentMoniker": "CPN-App.Server\\appsettings.json",
@@ -97,12 +97,11 @@
               "RelativeToolTip": "CPN-App.Server\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-18T02:49:09.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T02:49:09.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "app-routing.module.ts",
               "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "cpn-app.client\\src\\app\\app-routing.module.ts",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "cpn-app.client\\src\\app\\app-routing.module.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-18T02:44:07.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T02:44:07.075Z"
             },
             {
               "$type": "Document",
@@ -123,12 +121,11 @@
               "RelativeToolTip": "cpn-app.client\\src\\app\\app.module.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-18T02:41:35.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T02:41:35.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "prime.service.ts",
               "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\services\\prime.service.ts",
               "RelativeDocumentMoniker": "cpn-app.client\\src\\services\\prime.service.ts",
@@ -141,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "app.component.html",
               "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "cpn-app.client\\src\\app\\app.component.html",
@@ -149,8 +146,7 @@
               "RelativeToolTip": "cpn-app.client\\src\\app\\app.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-18T02:19:37.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T02:19:37.584Z"
             },
             {
               "$type": "Document",
@@ -162,8 +158,7 @@
               "RelativeToolTip": "cpn-app.client\\src\\app\\app.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-18T02:19:58.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T02:19:58.581Z"
             }
           ]
         }
