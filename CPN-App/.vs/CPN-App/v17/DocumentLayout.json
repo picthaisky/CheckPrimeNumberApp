@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.client\\src\\services\\prime.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|solutionrelative:cpn-app.client\\src\\services\\prime.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|solutionrelative:cpn-app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|solutionrelative:cpn-app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|solutionrelative:cpn-app.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.server\\controllers\\primecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F002CD3-FC14-4D1D-8F91-67FAF8E9DEFC}|CPN-App.Server\\CPN-App.Server.csproj|solutionrelative:cpn-app.server\\controllers\\primecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|solutionrelative:cpn-app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|c:\\users\\supachai.nil\\documents\\gitlab\\checkprimenumberapp\\cpn-app\\cpn-app.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DCFC89ED-7ADE-432B-80CA-17114D96D9CE}|cpn-app.client\\cpn-app.client.esproj|solutionrelative:cpn-app.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1249,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrimeController.cs",
+              "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\CPN-App.Server\\Controllers\\PrimeController.cs",
+              "RelativeDocumentMoniker": "CPN-App.Server\\Controllers\\PrimeController.cs",
+              "ToolTip": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\CPN-App.Server\\Controllers\\PrimeController.cs",
+              "RelativeToolTip": "CPN-App.Server\\Controllers\\PrimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:22:40.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1199,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\CPN-App.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "CPN-App.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\CPN-App.Server\\appsettings.json",
+              "RelativeToolTip": "CPN-App.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T02:49:09.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "cpn-app.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "cpn-app.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T02:44:07.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "cpn-app.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "cpn-app.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T02:41:35.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prime.service.ts",
+              "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\services\\prime.service.ts",
+              "RelativeDocumentMoniker": "cpn-app.client\\src\\services\\prime.service.ts",
+              "ToolTip": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\services\\prime.service.ts",
+              "RelativeToolTip": "cpn-app.client\\src\\services\\prime.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T02:36:44.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "cpn-app.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "cpn-app.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T02:19:37.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "cpn-app.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\supachai.nil\\Documents\\GitLab\\CheckPrimeNumberApp\\CPN-App\\cpn-app.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "cpn-app.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T02:19:58.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

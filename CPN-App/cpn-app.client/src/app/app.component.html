@@ -1,0 +1,10 @@
+<div style="text-align:center">
+    <h1>Prime Checker</h1>
+    <form (ngSubmit)="checkPrime()">
+        <input type="number" [(ngModel)]="number" name="number" required />
+        <button type="submit">Check</button>
+    </form>
+    <ul>
+        <li *ngFor="let result of results">{{ result }}</li>
+    </ul>
+</div>

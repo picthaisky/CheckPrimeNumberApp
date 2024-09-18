@@ -1,0 +1,13 @@
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\bin\Release\net8.0\CPN-App.ServiceDefaults.deps.json
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\bin\Release\net8.0\CPN-App.ServiceDefaults.dll
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\bin\Release\net8.0\CPN-App.ServiceDefaults.pdb
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.AssemblyInfo.cs
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.sourcelink.json
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.dll
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\refint\CPN-App.ServiceDefaults.dll
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\CPN-App.ServiceDefaults.pdb
+C:\Users\supachai.nil\Documents\GitLab\CheckPrimeNumberApp\CPN-App\CPN-App.ServiceDefaults\obj\Release\net8.0\ref\CPN-App.ServiceDefaults.dll
